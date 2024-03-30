@@ -199,10 +199,6 @@
   /* Navbar
       ============================= */
   
-  .navbar-menu {
-    float: right;
-  }
-  
   .nav {
     margin: 0;
     padding: 0;
@@ -250,10 +246,10 @@
       ============================= */
   
   .header {
-    padding: var(--header-padding);
-         position: relative;
-         z-index: 3;
-         background: transparent;
+	  padding: var(--header-padding);
+	  position: relative;
+	  z-index: 3;
+	  background: transparent;
   }
   
   .header-container {
